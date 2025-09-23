@@ -10,6 +10,10 @@ This repository contains class files and exercises for workshops in web developm
 - [Markdown](https://daringfireball.net/projects/markdown/)
 - [Markdown Guide](https://www.markdownguide.org/)
 
+## Note
+
+Some workshops require prior setup (e.g., installing VS Code or Git)
+
 ## 💻 Sample Code
 
 ```html
