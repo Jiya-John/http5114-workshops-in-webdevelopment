@@ -2,6 +2,8 @@
 
 This repository contains class files and exercises for workshops in web development from Humber college. 
 
+![web developer](image/photo.png)
+
 ## Useful Links:
 
 - [Github](https://github.com/)
