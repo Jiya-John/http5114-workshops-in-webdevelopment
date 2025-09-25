@@ -14,7 +14,7 @@ This repository contains class files and exercises for workshops in web developm
 
 Some workshops require prior setup (e.g., installing VS Code or Git)
 
-## 💻 Sample Code
+## Sample Code
 
 ```html
 <!-- Basic HTML structure for a workshop exercise -->
